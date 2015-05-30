@@ -1,1 +1,8 @@
 data/images
+data/Pororo_ENGLISH3_1_train_lmdb
+models
+data
+pkl
+*.pyc
+
+*.pkl
